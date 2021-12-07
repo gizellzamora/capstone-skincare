@@ -1,0 +1,15 @@
+.skin-img{
+  width: 130px;
+}
+
+.home-img{
+  opacity: 80%;
+  width: 1000px;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 3px;
+}
